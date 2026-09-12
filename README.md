@@ -1,9 +1,37 @@
-# 👋 Hi, I’m @Vivekgpta
+# Hi, I'm Vivek Kumar 👋
 
-- 👀 I’m interested in Web Development, AI Projects, and Problem Solving.
-- 🌱 I’m currently learning Full Stack Development and sharpening my DSA (Data Structures and Algorithms) skills.
-- 💞️ I’m looking to collaborate on Open Source Projects, Hackathons, and AI-based real-world applications.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vivekgpta) | [Email](mailto:vivekgpta.cs@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love building things from scratch—whether it’s a project, a UI design, or solving a bug that no one wants to touch!
+Final-year B.Tech CSE student and Java Developer building production web systems in Spring Boot and React.
 
+- 🎓 B.Tech CSE (2022–2026), NRI Institute of Information Science and Technology, Bhopal
+- 💼 Java Developer @ MITPL (Maharishi Institute of Technology Pvt. Ltd.), Bhopal
+- 📍 Based in Bhopal, India
+- 🎯 Currently targeting product-based companies
+- 🧠 Consistent DSA practice — 150+ problems solved (arrays, DP, greedy, binary search, graphs)
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend:** Java · Spring Boot · Spring MVC · JSP
+**Frontend:** React.js
+**Database:** MySQL
+**Tools:** Git · Docker
+
+---
+
+### 🚀 Featured Work
+
+- **School Admin Systems** — Built and deployed multi-school Spring Boot/JSP admin systems, live at:
+  - [mceebhopal.org](https://mceebhopal.org)
+  - [mvmorai.org](https://mvmorai.org)
+  - [mvmtiruvannamalai.org](https://mvmtiruvannamalai.org)
+  - [msechennai.org](https://msechennai.org)
+- **Quiz App** — Microservices architecture with Spring Boot, Netflix Eureka, Docker, deployed on Render.
+- **React projects** — Scroll-animation UI experiments (GSAP ScrollTrigger + Lenis smooth scroll), Aurelia (spa website), Velora Cafe.
+
+---
+
+### 📫 Connect
+
+- LinkedIn: [[add your link]](https://www.linkedin.com/in/vivek-gupta-73798423b/)
+- Email: vg877392@gmail.com
