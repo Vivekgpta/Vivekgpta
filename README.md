@@ -33,5 +33,5 @@ Final-year B.Tech CSE student and Java Developer building production web systems
 
 ### 📫 Connect
 
-- LinkedIn: [[add your link]](https://www.linkedin.com/in/vivek-gupta-73798423b/)
+- LinkedIn: https://www.linkedin.com/in/vivek-gupta-73798423b/
 - Email: vg877392@gmail.com
